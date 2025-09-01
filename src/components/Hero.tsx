@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="!py-[60px] !px-0 bg-gradient-to-br from-[#f8f9fa] to-[#e9ecef]"
+      className="!py-[60px] !px-0 !bg-gradient-to-br !from-[#f8f9fa] !to-[#e9ecef]"
     >
       <div className="container">
         <div className="hero-content grid grid-cols-[1fr_300px] gap-16 items-center">
